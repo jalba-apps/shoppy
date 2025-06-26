@@ -11,7 +11,7 @@ import SwiftUI
 struct shoppyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PreloadView()
         }
     }
 }
